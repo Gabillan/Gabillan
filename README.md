@@ -1,6 +1,8 @@
 # こんにちは、私はGabillan。
 私はいつもJavaScript勉強とかwebデザインについて考えたりiPhoneのショートカット作ってる。
 
+[my portfolio](https://codepen.io/Gabillan/pen/gOEambW)
+
 ```
   ____       _     _ _ _
  / ___| ____| |__ |_| | | ____ _  __

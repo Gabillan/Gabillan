@@ -1,4 +1,4 @@
-# こんにちは、私はGabillan。
+# こんにちは、私はGabillian。
 私はいつもJavaScript勉強とかwebデザインについて考えたりiPhoneのショートカット作ってる。
 
 [my portfolio](https://codepen.io/Gabillan/pen/gOEambW)

@@ -10,3 +10,6 @@
 | |_| | (_| | |_) | | | | | (_| |  /| |
  \____|\____|____/|_|_|_|_|\____|_| |_|
 ```
+
+![card](https://github-readme-stats.vercel.app/api?username=Gabillan&show_icons=true)
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabillan&layout=compact)

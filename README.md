@@ -5,12 +5,17 @@
 
 [my portfolio](https://codepen.io/Gabillan/pen/gOEambW)
 
-```
-  ____       _     _ _ _ _
- / ___| ____| |__ |_| | |_| ____ _  __
-| |  _ / _  |  _ \ _| | |_ / _  | |/  \
-| |_| | (_| | |_) | | | | | (_| |  /| |
- \____|\____|____/|_|_|_|_|\____|_| |_|
+```json
+{
+    "name":"Kiet_gggg",
+    "age":14,
+    "hobby":[
+        "write JavaScript code",
+        "web development"
+    ],
+    "gender":"null",
+    "student":true
+}
 ```
 
 ![card](https://github-readme-stats.vercel.app/api?username=Gabillan&show_icons=true)

@@ -1,5 +1,7 @@
-# こんにちは、私はGabillian。
+# Hi, I'm Kiet_gggg.
+
 私はいつもJavaScript勉強とかwebデザインについて考えたりiPhoneのショートカット作ってる。
+まじでプログラミング楽しい！
 
 [my portfolio](https://codepen.io/Gabillan/pen/gOEambW)
 
